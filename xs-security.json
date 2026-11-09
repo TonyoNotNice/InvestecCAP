@@ -1,0 +1,20 @@
+{
+  "xsappname": "investec-cap",
+  "tenant-mode": "dedicated",
+  "description": "Security profile for Investec CAP Application",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.view",
+      "description": "View Investec data"
+    }
+  ],
+  "role-templates": [
+    {
+      "name": "Viewer",
+      "description": "View Investec data",
+      "scope-references": [
+        "$XSAPPNAME.view"
+      ]
+    }
+  ]
+}

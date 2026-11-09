@@ -1,0 +1,9 @@
+accountId,accountNumber,accountName,referenceName,productName,kycCompliant,profileId,profileName
+3353431574710163189587446,10011425044,Mr Smith,Mr Smith Main,Private Bank Account,true,10163189587444,Profile A
+3353431574710166878182963,1100470321500,Mr Smith,Mr Smith Prime,PrimeSaver,true,10163189587444,Profile A
+3353431574710189969910439,1100470321503,Mr Smith,Mr Smith Money Fund,MoneyFund Tracker,true,10163189587444,Profile A
+3353431574710163191281913,1100470321540,Mr Smith,Mr Smith Cash,Cash Management Account,true,10163189587444,Profile A
+2111047871310183964720792,10012024052,Mrs Little Smith,Mrs Little Smith Youth,Investec Youth Account,true,10183964720789,Profile B
+2111047871310183964825897,1100581439500,Mrs Little Smith,Mrs Little Smith Prime,PrimeSaver,true,10183964720789,Profile B
+3882638263210182035050683,10011948799,Mr Little Smith,Mr Little Smith Youth,Investec Youth Account,true,10182035050680,Profile C
+3882638263210182035137740,1100579911500,Mr Little Smith,Mr Little Smith Prime,PrimeSaver,true,10182035050680,Profile C
